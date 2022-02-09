@@ -1,0 +1,12 @@
+{
+  "test_create" : {
+    "key1": 1,
+    "key2": "unique-bucket-creation",
+    "key3": "region-for bucket"
+  },
+
+  "test_list" : {
+  "key1": 0
+  }
+}
+
